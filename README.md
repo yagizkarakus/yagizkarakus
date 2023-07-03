@@ -2,7 +2,7 @@
 - 👀 I’m interested in ComputerVsion,Linux,MachineLearning and Deeplearning
 - 🌱 I’m currently learning Object Detection
 - 💞️ I’m looking to collaborate on ml and deeplearning projects
-- 📫 you can reach me via yagihikmerkarakus@gmail.com
+- 📫 you can reach me via yagizhikmetkarakus@gmail.com
 
 <!---
 yagizkarakus/yagizkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
