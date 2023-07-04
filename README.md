@@ -28,7 +28,10 @@
 </p>
 
 <div align="Center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark&card_height=320))
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark" />
+</a>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact&card_height=320))](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
