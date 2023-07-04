@@ -30,9 +30,12 @@
 <div align="Center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark" />
-</a>
+  </a>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact&card_height=320))](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact" />
+  </a>
+  [![Top Langs]())](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ![Snake animation](https://github.com/yagizkarakus/yagizkarakus/blob/output/github-contribution-grid-snake-dark.svg)
