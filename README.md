@@ -29,6 +29,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&layout=compact&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/yagizkarakus/yagizkarakus/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 yagizkarakus/yagizkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
