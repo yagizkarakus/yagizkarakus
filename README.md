@@ -43,6 +43,10 @@
   </picture>
  
 </div>
+
+<p align="Center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:552586,20:6A359C,40:804FB3,60:9969C7,80:9969C7,100:B589D6&animation=scaleIn&height=150&section=footer"/>
+</p>
 <!---
 yagizkarakus/yagizkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
