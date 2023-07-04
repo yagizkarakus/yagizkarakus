@@ -27,11 +27,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
-- 👋 Hi, I’m @yagizkarakus
-- 👀 I’m interested in ComputerVsion,Linux,MachineLearning and Deeplearning
-- 🌱 I’m currently learning Object Detection
-- 💞️ I’m looking to collaborate on ml and deeplearning projects
-- 📫 you can reach me via yagizhikmetkarakus@gmail.com
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark)
 ![Snake animation](https://github.com/yagizkarakus/yagizkarakus/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
@@ -42,5 +38,9 @@ You can click the Preview link to take a look at your changes.
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
+- 👋 Hi, I’m @yagizkarakus
+- 👀 I’m interested in ComputerVsion,Linux,MachineLearning and Deeplearning
+- 🌱 I’m currently learning Object Detection
+- 💞️ I’m looking to collaborate on ml and deeplearning projects
+- 📫 you can reach me via yagizhikmetkarakus@gmail.com
 --->
