@@ -32,7 +32,7 @@
 - 🌱 I’m currently learning Object Detection
 - 💞️ I’m looking to collaborate on ml and deeplearning projects
 - 📫 you can reach me via yagizhikmetkarakus@gmail.com
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark)
 ![Snake animation](https://github.com/yagizkarakus/yagizkarakus/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 yagizkarakus/yagizkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
