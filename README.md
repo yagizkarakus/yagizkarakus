@@ -27,9 +27,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 
+<div align="Center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark&card_height=320))
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact&card_height=320))](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Snake animation](https://github.com/yagizkarakus/yagizkarakus/blob/output/github-contribution-grid-snake-dark.svg)
 <!---
 yagizkarakus/yagizkarakus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
