@@ -29,11 +29,11 @@
 
 <div align="Center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=yagizkarakus&show_icons=true&theme=ocean_dark&card_width=450" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact&card-height=320" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizkarakus&theme=ocean_dark&layout=compact" />
   </a>
 </div>
 
