@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="/instagram.svg"/>
+  <img height="50" src="instagram.svg"/>
 </a>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
