@@ -14,6 +14,11 @@
 <a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank”>
   <img height="50" src="/linkedin.svg"/>
 </a>
+
+&nbsp;
+<a href="https://twitter.com/yagiz_karakus" target=”_blank”>
+  <img height="50" src="/twitter.svg"/>
+</a>
 </div>
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
