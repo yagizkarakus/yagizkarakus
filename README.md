@@ -19,7 +19,34 @@
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
 ```yaml
-* YOUR TEXT GOES HERE *
+name: Yağız Hikmet Karakuş
+located_in: Ankara, Turkey
+current_job: Looking For One
+education:
+  [
+    "Bachelor's in Computer Science at TED UNIVERSITY",
+  ]
+
+fields_of_interests:
+  [
+    "Backend Development",
+    "Data Science",
+    "Machine Learning",
+    "Computer Vision",
+    "Natural Language Processing",
+    "Image Processing",
+    "Speach Recognition",
+  ]
+technical_background:
+  [
+    "Intern - Building plugins for pentaho",
+    "Intern - Self-Driving car tasks implementation",
+
+  ]
+  
+currently_learning: ["Docker, Kubernetes]
+
+hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
