@@ -6,16 +6,12 @@
 <a href="https://yagizkarakus.github.io/about/" target="_blank">
   <img height="50" src="/blog.svg"/>
 </a>
-&nbsp;
 <a href="https://www.instagram.com/yagizkarakuss/" target=”_blank”>
   <img height="50" src="/instalogo.svg"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank”>
   <img height="50" src="/linkedin.svg"/>
 </a>
-
-&nbsp;
 <a href="https://twitter.com/yagiz_karakus" target=”_blank”>
   <img height="50" src="/twitter.svg"/>
 </a>
