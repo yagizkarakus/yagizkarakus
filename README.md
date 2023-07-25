@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="/blog.svg"/>
 </a>
-<spacer type="vertical" width="100" height="100"> </spacer>
+<div style="width:10px"> <div/>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="/instalogo.svg"/>
 </a>
