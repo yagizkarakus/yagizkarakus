@@ -3,15 +3,15 @@
 </p>
 
 <div align="Center" style="background-color:#512b57">
-<a href="https://yagizkarakus.github.io/about/">
+<a href="https://yagizkarakus.github.io/about/" target=”_blank”>
   <img height="50" src="/blog.svg"/>
 </a>
 &nbsp;
-<a href="https://www.instagram.com/yagizkarakuss/">
+<a href="https://www.instagram.com/yagizkarakuss/" target=”_blank”>
   <img height="50" src="/instalogo.svg"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/yagiz-karakus/">
+<a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank”>
   <img height="50" src="/linkedin.svg"/>
 </a>
 </div>
