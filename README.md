@@ -6,11 +6,11 @@
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="/blog.svg"/>
 </a>
-<pre>
+<spacer>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="/instalogo.svg"/>
 </a>
-<pre>
+<spacer>
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="/linkedin.svg"/>
 </a>
