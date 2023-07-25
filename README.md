@@ -3,7 +3,7 @@
 </p>
 
 <div align="Center" style="background-color:#512b57">
-<a href="https://yagizkarakus.github.io/about/" target=”_blank”>
+<a href="https://yagizkarakus.github.io/about/" target="_blank">
   <img height="50" src="/blog.svg"/>
 </a>
 &nbsp;
