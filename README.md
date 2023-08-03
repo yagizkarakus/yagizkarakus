@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:552586,20:6A359C,40:804FB3,60:9969C7,80:9969C7,100:B589D6&animation=scaleIn&text=%F0%9F%9A%80%20Buckle%20up!%20Let%27s%20code%20to%20infinity%20and%20beyond!%F0%9F%8C%A0&fontSize=30&stroke=00ff8d&height=150&fontAlignY=30&fontColor=00FF00&strokeWidth=2"/>
 </p>
 <p align="Center">
-  <div class="tenor-gif-embed" data-postid="17152141" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/neon-genesis-evangelion-power-anime-pose-gif-17152141">Neon Genesis Evangelion Power GIF</a>from <a href="https://tenor.com/search/neon+genesis+evangelion-gifs">Neon Genesis Evangelion GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</p>
+  <div class="tenor-gif-embed" data-postid="17152141" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/neon-genesis-evangelion-power-anime-pose-gif-17152141">Neon Genesis Evangelion Power GIF</a>from <a href="https://tenor.com/search/neon+genesis+evangelion-gifs">Neon Genesis Evangelion GIFs</a></div>
 <div align="Center" style="background-color:#512b57">
 <a href="https://yagizkarakus.github.io/about/" target="_blank">
   <img height="50" src="/blog.svg"/>
