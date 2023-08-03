@@ -24,7 +24,7 @@
 </div>
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
-```yaml color="green"
+```yaml 
 name: Yağız Hikmet Karakuş
 located_in: Ankara, Turkey
 current_job: Looking For One
