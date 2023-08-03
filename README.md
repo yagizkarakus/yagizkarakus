@@ -4,7 +4,8 @@
 <div align="Center" >
   <img width ="850" height="600" src="/neon-genesis-evangelion-power.gif"/>
 </div>
-
+<h2> 📱 &nbsp;Socials</h2>
+</br>
 <div align="Center" style="background-color:#512b57">
 <a href="https://yagizkarakus.github.io/about/" target="_blank">
   <img height="50" src="/blog.svg"/>
