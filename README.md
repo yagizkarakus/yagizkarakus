@@ -8,7 +8,7 @@
 </br>
 <h2> 📱 &nbsp;Socials</h2>
 </br>
-<div align="Center" style="background-color:#512b57">
+<div align="Center" style="justify-content: space-between" >
 <a href="https://yagizkarakus.github.io/about/" target="_blank">
   <img height="50" src="/blog.svg"/>
 </a>
