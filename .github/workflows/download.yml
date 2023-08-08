@@ -10,11 +10,11 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Get latest release
         id: get-latest-release
-        uses: InsonusK/get-latest-release@v1.0.1
+        uses: InsonusK/get-latest-release@v1.1.0
         with:
           myToken: ${{ github.token }}
           view_top: 1
@@ -22,10 +22,10 @@ jobs:
       - name: Readme Download Button Action
         env:
           GITHUB_USER: "yagizkarakus"
-          REPO: "Curriculum vitae"
+          REPO: "Curriculum-vitae"
           FORMAT: "zip"
           VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
-          COLOR: "blue"
+          COLOR: "green"
           BEGIN_TAG: "<!-- BEGIN LATEST DOWNLOAD BUTTON -->"
           END_TAG: "<!-- END LATEST DOWNLOAD BUTTON -->"
         run: |
