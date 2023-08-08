@@ -8,17 +8,17 @@
 </br>
 <h2> 📱 &nbsp;Socials</h2>
 </br>
-<div align="Center" style="justify-content: space-between" >
-<a href="https://yagizkarakus.github.io/about/" target="_blank">
+<div align="Center">
+<a href="https://yagizkarakus.github.io/about/" target="_blank" hspace="10">
   <img height="50" src="/blog.svg"/>
 </a>
-<a href="https://www.instagram.com/yagizkarakuss/" target=”_blank”>
+<a href="https://www.instagram.com/yagizkarakuss/" target=”_blank” hspace="10">
   <img height="50" src="/instalogo.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank”>
+<a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank” hspace="10">
   <img height="50" src="/linkedin.svg"/>
 </a>
-<a href="https://twitter.com/yagiz_karakus" target=”_blank”>
+<a href="https://twitter.com/yagiz_karakus" target=”_blank” hspace="10">
   <img height="50" src="/twitter.svg"/>
 </a>
 </div>
