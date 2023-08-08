@@ -55,10 +55,11 @@ currently_learning: ["Docker, Kubernetes]
 hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
 
-
+<div align="Center">
 <a href="https://github.com/yagizkarakus/Curriculum-vitae/archive/0.0.1.zip" target="_blank">
   <img height="50" src="https://custom-icon-badges.demolab.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=white"/>
 </a>
+</div>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
