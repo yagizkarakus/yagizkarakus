@@ -56,7 +56,7 @@ hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
 <div align="Center">
   <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yagizkarakus/Curriculum vitae/archive/.zip)
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yagizkarakus/Curriculum-vitae/archive/.zip)
 <!-- END LATEST DOWNLOAD BUTTON -->
 </div>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
