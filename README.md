@@ -55,9 +55,10 @@ currently_learning: ["Docker, Kubernetes]
 hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
 
-<!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yagizkarakus/Curriculum-vitae/archive/.zip)
-<!-- END LATEST DOWNLOAD BUTTON -->
+
+<a href="https://github.com/yagizkarakus/Curriculum-vitae/archive/0.0.1.zip" target="_blank">
+  <img height="50" src="https://custom-icon-badges.demolab.com/badge/-Download-green?style=for-the-badge&logo=download&logoColor=white"/>
+</a>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
