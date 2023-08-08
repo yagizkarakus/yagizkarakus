@@ -54,6 +54,10 @@ currently_learning: ["Docker, Kubernetes]
 
 hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
+<div align="Center">
+  <!-- BEGIN LATEST DOWNLOAD BUTTON -->
+  <!-- END LATEST DOWNLOAD BUTTON -->
+</div>
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
