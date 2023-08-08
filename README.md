@@ -10,16 +10,16 @@
 </br>
 <div align="Center">
 <a href="https://yagizkarakus.github.io/about/" target="_blank" hspace="10">
-  <img height="50" src="/blog.svg"/>
+  <img height="50" src="/blog.svg" hspace="50"/>
 </a>
 <a href="https://www.instagram.com/yagizkarakuss/" target=”_blank” hspace="10">
-  <img height="50" src="/instalogo.svg"/>
+  <img height="50" src="/instalogo.svg" hspace="50"/>
 </a>
 <a href="https://www.linkedin.com/in/yagiz-karakus/" target=”_blank” hspace="10">
-  <img height="50" src="/linkedin.svg"/>
+  <img height="50" src="/linkedin.svg" hspace="50"/>
 </a>
 <a href="https://twitter.com/yagiz_karakus" target=”_blank” hspace="10">
-  <img height="50" src="/twitter.svg"/>
+  <img height="50" src="/twitter.svg" hspace="50"/>
 </a>
 </div>
 <h2> 👨‍💻 &nbsp;About Me</h2>
