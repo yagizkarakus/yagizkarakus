@@ -22,7 +22,7 @@ jobs:
       - name: Readme Download Button Action
         env:
           GITHUB_USER: "yagizkarakus"
-          REPO: "Curriculum-vitae"
+          REPO: "yagizkarakus"
           FORMAT: "zip"
           VERSION: "${{ steps.get-latest-release.outputs.tag_name }}"
           COLOR: "blue"
