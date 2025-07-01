@@ -27,7 +27,7 @@
 ```yaml 
 name: Yağız Hikmet Karakuş
 located_in: Ankara, Turkey
-current_job: Looking For One
+current_job: Huawei DevOps Engineer
 education:
   [
     "Bachelor's in Computer Science at TED UNIVERSITY",
@@ -35,22 +35,19 @@ education:
 
 fields_of_interests:
   [
-    "Backend Development",
-    "Data Science",
+    "Bash scripting",
+    "DevOps",
     "Machine Learning",
     "Computer Vision",
-    "Natural Language Processing",
-    "Image Processing",
-    "Speach Recognition",
   ]
 technical_background:
   [
     "Intern - Building plugins for pentaho",
     "Intern - Self-Driving car tasks implementation",
-
+    "Full-Time - Bluesense.ai fullstack APP development & model training",
   ]
   
-currently_learning: ["Docker, Kubernetes]
+currently_learning: [Ansible, Teraform, Openshift, OpenStack]
 
 hobbies: ["Gaming", "Cinema", "ComicBooks", "Art", "Philosophy"]
 ```
